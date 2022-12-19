@@ -25,6 +25,7 @@ def main():
         
         if not os.path.exists(new_path):
             open(new_path, "x")
+            log(f"created new file {bank_key}.md")
 
         with open(new_path, "w") as file:
             file.write(f"# {bank_key.capitalize()}s\n")

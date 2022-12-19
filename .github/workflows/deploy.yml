@@ -21,7 +21,8 @@ jobs:
           python markdown.py
       
       - name: deploy
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          branch: pages
-          folder: build
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: pages
+          public_dir: ./build
