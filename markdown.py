@@ -1,6 +1,7 @@
 from databank import databank
 import stringer
 import time
+import os
 
 debug = True
 
@@ -13,7 +14,17 @@ def main():
 
     for bank_key in databank.keys():
         bank = databank[bank_key]
-        with open(f"{bank_key}.md", "w") as file:
+
+        cur_path = os.path.dirname(__file__)
+
+        if not os.path.exists("build"):
+            os.makedirs("build")
+            log("build/ non-existent, creating.")
+        
+        new_path = os.path.relpath(f'.\\build\\{bank_key}.md', cur_path)
+        open(new_path, "x")
+
+        with open(new_path, "w") as file:
             file.write(f"# {bank_key.capitalize()}s\n")
             for data_key in bank.keys():
                 if bank_key == "faction":

@@ -19,17 +19,8 @@ jobs:
       - name: execute script
         run: |
           python markdown.py
-
-      - name: commit files
-        run: |
-          git pull origin pages
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A
-          git commit -m "generated markdown"
       
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+      - name: deploy
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{secrets.GITHUB_TOKEN}}
-          branch: pages
+          folder: build
