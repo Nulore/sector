@@ -27,8 +27,7 @@ Biometrics scanned, welcome Captain.
 The {Style.BRIGHT}{Fore.RED}AI override code is{Style.RESET_ALL} {character_dict['meta']['code']}"""
     return message
 
-def species(arguments):
-    species: str = arguments[0]
+def species(species: str):
     message = f"species not found, {species}"
     if species in databank["species"]:
         message = f"""{Style.BRIGHT}{Fore.RED}{databank["species"][species]['plural']} ({databank["species"][species]['single']}){Style.RESET_ALL}
@@ -36,9 +35,9 @@ def species(arguments):
 
     return message
 
-def faction(arguments):
-    faction_string: str = arguments[0]
+def faction(faction_string: str):
     message = f"faction not found, {faction_string}"
+
     if faction_string in databank["faction"]:
         faction = get_item_databank("faction", faction_string)
 
@@ -72,11 +71,10 @@ def faction(arguments):
 
     return message
 
-def weapon(arguments):
-    weapon: str = arguments[0]
+def weapon(weapon: str):
     message = f"weapon not found, {weapon}"
     if weapon in databank["weapon"]:
-        dweapon = databank["weapon"][weapon]
+        dweapon = get_item_databank("weapon", weapon)
         message = f"""{Style.BRIGHT}{Fore.GREEN}{dweapon['name']}{Style.RESET_ALL}
     {dweapon['description']}
 

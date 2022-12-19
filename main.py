@@ -16,18 +16,20 @@ def print_character(character_dict: dict):
     print(message)
 
 def print_species(arguments):
-    message = stringer.species(arguments)
+    species: str = arguments[0]
+    message = stringer.species(species)
 
     print(message)
 
 def print_faction(arguments):
-    message = stringer.faction(arguments)
+    faction_string: str = arguments[0]
+    message = stringer.faction(faction_string)
 
     print(message)
 
 def print_weapon(arguments):
     weapon: str = arguments[0]
-    message = stringer.weapon(arguments)
+    message = stringer.weapon(weapon)
 
     print(message)
 
