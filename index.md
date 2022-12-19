@@ -1,3 +1,7 @@
+# Sector
+
+> "Hello, I am your ship's AI. I am equipped with a Federation Standard Databank, however I am able to access the Federation Grand Network of Knowledge (FGNOK) if you desire. Query anything at my query console."
+
 ## Get Started
 
 How about browsing [The Brief Explanation?](brief.md), or you can visit the [page index](page_index.md) to view it all!
