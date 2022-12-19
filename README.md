@@ -14,4 +14,5 @@ This is also one of the first times I've attempted to make a proper Sci-Fi unive
 - [ ] Diseases
 - [ ] Creatures
 - [ ] Factions
+- [ ] Weapons
 - [ ] Sectors
