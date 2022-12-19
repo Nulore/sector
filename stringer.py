@@ -1,5 +1,6 @@
 from colorama import Fore, Back, Style
 from databank import databank, get_item_databank
+import re
 
 def character(character_dict: dict) -> str:
     name: str = character_dict['meta']['name']
@@ -87,3 +88,9 @@ def weapon(weapon: str):
     Power Usage: {dweapon['power_usage']}"""
 
     return message
+
+def anti_ansi(string: str) -> str:
+    """Removes all ANSI escape sequences from a string."""
+
+    ansi_escape = re.compile(r'(\x9B|\x1B\[)[0-?]*[ -\/]*[@-~]')
+    return ansi_escape.sub('', string)
