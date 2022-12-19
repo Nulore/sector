@@ -8,7 +8,7 @@ This is also one of the first times I've attempted to make a proper Sci-Fi unive
 
 ## To-Do
 
-- [ ] Seperation of string from `main.py`
+- [x] Seperation of string from `main.py`
 - [ ] TOML->Markdown
 - [ ] Github Sites
 - [ ] Diseases
