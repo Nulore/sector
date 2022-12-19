@@ -1,4 +1,4 @@
-# Sector
+# Federation Grand Network Of Knowledge
 
 > "Hello, I am your ship's AI. I am equipped with a Federation Standard Databank, however I am able to access the Federation Grand Network of Knowledge (FGNOK) if you desire. Query anything at my query console."
 
