@@ -1,5 +1,3 @@
-# sector
-
 ## Get Started
 
 How about browsing [The Brief Explanation?](brief.md), or you can visit the [page index](page_index.md) to view it all!
