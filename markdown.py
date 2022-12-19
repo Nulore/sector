@@ -22,7 +22,9 @@ def main():
             log("build/ non-existent, creating.")
         
         new_path = os.path.relpath(f'.\\build\\{bank_key}.md', cur_path)
-        open(new_path, "x")
+        
+        if not os.path.exists(new_path):
+            open(new_path, "x")
 
         with open(new_path, "w") as file:
             file.write(f"# {bank_key.capitalize()}s\n")
