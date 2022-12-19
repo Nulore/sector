@@ -1,7 +1,14 @@
 from glob import glob
+import pyfiglet
+import time
 
 def main():
+    pyfiglet.print_figlet("Indexer")
+    start = time.process_time()
+    print("now indexing files.")
     files = glob("*.md") + glob("**/*.md")
+    print("indexed files.")
+    print("now writing files.")
     with open("page_index.md", "w") as file:
         file.truncate(0) # reset it
         file.write("# Page Index\n\n")
@@ -11,6 +18,8 @@ def main():
                 continue
 
             file.write(f"- [{markdown}]({markdown})\n")
+    end = time.process_time()
+    print(f"finished in {(end - start) * 10**3}ms.")
 
 if __name__ == "__main__":
     main()
