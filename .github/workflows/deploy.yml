@@ -18,10 +18,13 @@ jobs:
       
       - name: execute script
         run: |
-          python markdown.py
+          python index.py
       
       - name: deploy
-        uses: JamesIves/github-pages-deploy-action@v4.1.5
-        with:
-          branch: pages
-          folder: build
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git pull origin master
+          git add page_index.md
+          git commit -m "index all files"

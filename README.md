@@ -1,18 +1,12 @@
 # sector
 
-A homebrew Sci-Fi universe from the perspective of an unbiased (may be biased) AI that has been recording everything since Earth formed.
+A homebrewed Sci-Fi universe.
 
-Most of this is written in `.toml` files allowing for easy organization.
+## Get Started
 
-This is also one of the first times I've attempted to make a proper Sci-Fi universe, just a notice.
+How about browsing [The Brief Explanation?](brief.md), or you can visit the [page index](page_index.md) to view it all!
 
-## To-Do
+## Things to keep in mind
 
-- [x] Seperation of string from `main.py`
-- [x] TOML->Markdown
-- [x] Github Sites
-- [ ] Diseases
-- [ ] Creatures
-- [ ] Factions
-- [ ] Weapons
-- [ ] Sectors
+- FTL is possible if not in a vacuum, FTL is mostly used as weaponry (see: [photonic booms](technology/photon_booms.md)) on planetary combat.
+- People travel using an [Ampersand Drive](technology/ampersand_drives.md), which to 
