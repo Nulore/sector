@@ -31,8 +31,8 @@ The {Style.BRIGHT}{Fore.RED}AI override code is{Style.RESET_ALL} {character_dict
 def species(species: str):
     message = f"species not found, {species}"
     if species in databank["species"]:
-        message = f"""{Style.BRIGHT}{Fore.RED}{databank["species"][species]['plural']} ({databank["species"][species]['single']}){Style.RESET_ALL}
-        {databank["species"][species]['description']}"""
+        message = f"""## {Style.BRIGHT}{Fore.RED}{databank["species"][species]['plural']} ({databank["species"][species]['single']}){Style.RESET_ALL}
+  {databank["species"][species]['description']}"""
 
     return message
 
@@ -62,12 +62,13 @@ def faction(faction_string: str):
         pretty(enemies)
         pretty(allies)
         
-        message = f"""{Style.BRIGHT}{Fore.RED}{faction['name']}
-        {Fore.GREEN}"{faction['motto']}"{Style.RESET_ALL}
+        message = f"""## {Style.BRIGHT}{Fore.RED}{faction['name']}
+> {Fore.GREEN}"{faction['motto']}"{Style.RESET_ALL}
+
 {faction['description']}
 
-{Fore.GREEN}Allies:{Style.RESET_ALL} {', '.join(allies)}
-{Fore.RED}Enemies:{Style.RESET_ALL} {', '.join(enemies)}
+**{Fore.GREEN}Allies:{Style.RESET_ALL}** {', '.join(allies)}
+**{Fore.RED}Enemies:{Style.RESET_ALL}** {', '.join(enemies)}
         """
 
     return message

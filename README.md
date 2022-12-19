@@ -9,8 +9,8 @@ This is also one of the first times I've attempted to make a proper Sci-Fi unive
 ## To-Do
 
 - [x] Seperation of string from `main.py`
-- [ ] TOML->Markdown
-- [ ] Github Sites
+- [x] TOML->Markdown
+- [x] Github Sites
 - [ ] Diseases
 - [ ] Creatures
 - [ ] Factions
