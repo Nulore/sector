@@ -1,0 +1,32 @@
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+        
+      - name: install packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requiprements.txt
+      
+      - name: execute script
+        run: |
+          python markdown.py
+
+      - name: commit files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          git commit -m "generated markdown"
+      
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          branch: pages
