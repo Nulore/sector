@@ -16,8 +16,10 @@ def main():
         for markdown in files:
             if markdown.startswith("build"):
                 continue
+                
+            name = markdown.replace("\\", "/")
 
-            file.write(f"- [{markdown}]({markdown[:len(markdown) - 3]})\n")
+            file.write(f"- [{name}]({markdown[:len(markdown) - 3]})\n")
     end = time.process_time()
     print(f"finished in {(end - start) * 10**3}ms.")
 
