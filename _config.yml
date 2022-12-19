@@ -4,3 +4,4 @@ minima:
 header_pages:
   - brief.md
   - page_index.md
+exclude: ["README.md"]
