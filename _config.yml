@@ -1,4 +1,5 @@
 title: Sector Index
-theme: minima
-minima:
-  skin: dark
+tagline: An index of the sectors, it's technology and more.
+description: An index of the Sector Sci-Fi universe.
+remote_theme: "dracula/gh-pages"
+show_header: false
