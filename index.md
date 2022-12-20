@@ -8,5 +8,5 @@ How about browsing [The Brief Explanation?](brief_explanation), or you can visit
 
 ## Things to keep in mind
 
-- FTL is possible if not in a vacuum, FTL is mostly used as weaponry (see: [photonic booms](technology/photon_booms)) on planetary combat.
+- FTL is possible but is usually weaponized (see: [photonic booms](technology/photon_booms)) on planetary and space combat.
 - People travel using an [Ampersand Drive](technology/ampersand_drives), which basically opens a wormhole into Ampersand space allowing for easy traversal through Sectors.
