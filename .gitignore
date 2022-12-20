@@ -238,4 +238,4 @@ fabric.properties
 campaign/
 
 # Make sure those pesky developers don't commit the page_index on accident!
-# page_index.md
+page_index.md

@@ -28,3 +28,4 @@ jobs:
           git pull origin master
           git add -f page_index.md
           git commit -m "index all files"
+          git push origin master
