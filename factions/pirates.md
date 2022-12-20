@@ -1,4 +1,4 @@
-# Pirates
+# [Pirates](pirates)
 
 > "Don't care who or what you are, we have come for your booty!"
 

@@ -36,7 +36,7 @@ The monitors turn red, the glass cracks, the ship rattles as the abyss stares th
 "Captain Matilda! Half of engineering has fallen to the abyss, what sector are we in!?" The Chief Engineer yells throughout the intercom.
 "Hold Engineering still! Keep the oxygen sealed, how many resources do you have!?", Matilda yells out in response.
 The intercom begins to broadcast static, but transmits one last message: "Not enough!" Before switching to static again.
-"This is Captain Matilda of the Nest-IV, a stolen Federation ship." Constant explosions, gunfire and laser beams are heard throughout the recording, "We are currently in a zone of space controlled by pirates, anomalous entities and eldritch horrors."
+"This is Captain Matilda of the Nest-IV, a stolen Federation ship." Constant explosions, gunfire and laser beams are heard throughout the recording, "We are currently in a zone of space controlled by [Pirates](pirates), anomalous entities and eldritch horrors."
 You hear an eldritch screech, "If you do hear this recording, or find it at all. Please, broadcast the following message to the net."
 You hear a massive explosion, as the recording cuts to black.
 
