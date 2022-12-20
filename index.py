@@ -10,7 +10,7 @@ def main():
     start = time.process_time()
 
     print("now indexing files.")
-    files = glob("*.md") + glob("**/*.md")
+    files = glob("*.md") + glob("**/*.md") + glob("**/**/*.md")
     files = sorted(files)
     print("indexed files.")
 
@@ -33,6 +33,9 @@ def main():
                 if category != split[0]:
                     file.write(f"\n## {split[0].capitalize()}\n\n")
                     category = split[0]
+            
+            if len(split) > 1:
+                name += f" ({split[1]})"
             
             if name == "Index":
                 name = "Homepage"
