@@ -1,4 +1,4 @@
-# [Galactic Federation](federation)
+# [Quadrantal Federation](federation)
 
 ![federation](../images/federation.png)
 
