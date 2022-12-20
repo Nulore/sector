@@ -6,9 +6,9 @@
 
 One of the few surviving Earth-era companies, developing robotic technology and researching rapidly.
 
-The [Tauri Corporation](tauri) is a lead in the science, technology, and combat industries. It is the galaxy's largest company, with contracts to both sides of the galactic civil war.
+The [Tauri Corporation](tauri) is a lead in the science, technology, and combat industries. It is the quadrant's largest company, with contracts to both sides of the galactic civil war.
 
-Initially founded in 2155 under the [Federation](federation) under the codename 'Tauri Division', consisting of the galaxy's best researchers, mercenaries, engineers and more to develop the best ships to explore, fight and put down resistance.
+Initially founded in 2155 under the [Federation](federation) under the codename 'Tauri Division', consisting of the quadrant's best researchers, mercenaries, engineers and more to develop the best ships to explore, fight and put down resistance.
 
 The [Tauri Corporation](tauri) is to blame for most technology and weapons used today. Weapons such as [photonic booms](../technology/photon_booms), [ampersand space and drives](../technology/ampersand_drives) and [antimatter](../technology/antimatter) discovery.
 

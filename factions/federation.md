@@ -1,6 +1,6 @@
 # [Galactic Federation](federation)
 
-> "For the galaxy and beyond!"
+> "For the quadrant and beyond!"
 
 The **Federation** is one of the eldest surviving factions, and a general Federation of most
 species, trying for equality.
