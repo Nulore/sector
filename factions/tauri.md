@@ -1,4 +1,4 @@
-## Tauri Corporation
+# Tauri Corporation
 
 > "To the stars we fly!"
 
