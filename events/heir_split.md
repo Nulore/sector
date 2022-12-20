@@ -1,3 +1,3 @@
-# Heir Split
+# Heir Secede
 
 TODO fill out

@@ -14,7 +14,7 @@ The [Tauri Corporation](tauri) is to blame for most technology and weapons used 
 
 During the Tauri Divison era when the Tauri Corporation was under [Federation](federation) control, they developed [planetkillers](../technology/planetkillers) and discovered [antimatter](../technology/antimatter). The Federation believed that Tauri could not be controlled, in which they were right.
 
-The Federation sent **Tauri Mercenaries** to steal the Tauri research and kill all the workers, Tauri Mercenaries agreed to this but didn't preform the massacre; rather informing the researchers about the situation. The researchers handed a prototype antimatter planetkiller and the mercenaries threatened to use the planetkiller on the Federation's main station of operations, before splitting off into the today's **Tauri Corporation**.
+The Federation sent **Tauri Mercenaries** to steal the Tauri research and kill all the workers, Tauri Mercenaries agreed to this but didn't preform the massacre; rather informing the researchers about the situation. The researchers handed a prototype antimatter planetkiller and the mercenaries threatened to use the planetkiller on the Federation's main station of operations, before seceding off into the today's **Tauri Corporation**.
 
 - **Allies:** [Human Union](human_union), [Roach Conglomerate](roach_conglomerate), [Galactic Federation](federation), The Heir
 - **Enemies:** [Botani Union](botani), [Pirates](pirates)

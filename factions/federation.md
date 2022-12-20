@@ -16,7 +16,7 @@ There began a distrust between the Tauri Division and the Federation as weapons 
 
 After the discovery of [antimatter](../technology/antimatter), the Federation ordered the massacre of all Tauri Division workers by Tauri Division mercenaries. The Tauri Mercenaries decided to warn the researchers, engineers and workers.
 
-Tauri developed a planetkiller and threatened to use it on the main Federation base, before splitting from the Federation.
+Tauri developed a planetkiller and threatened to use it on the main Federation base, before seceding from the Federation.
 
 - **Allies:** [Roach Conglomerate](roach_conglomerate), [Botani Union](botani), [Tauri Corporation](tauri)
 - **Enemies:** [Human Union](human_union), [Pirates](pirates), The Heir
