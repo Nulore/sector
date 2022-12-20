@@ -1,7 +1,9 @@
+title: "Sector Universe"
+description: "A databank consisting of everything you need to know about the Sector Universe."
 remote_theme: jekyll/minima
 minima:
   skin: dark
 header_pages:
-  - brief.md
+  - brief_explanation.md
   - page_index.md
 exclude: ["README.md"]
