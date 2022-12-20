@@ -1,6 +1,6 @@
 # [Tauri Corporation](tauri)
 
-![tauri_corp](../images/tauri_corp.png)
+![tauri_corp](../images/flags/tauri_corp.png)
 
 > "To the stars we research, develop and fly!"
 

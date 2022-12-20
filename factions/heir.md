@@ -1,6 +1,6 @@
 # The Heir
 
-![heir](../images/heir.png)
+![heir](../images/flags/heir.png)
 
 > "The Federation is soon to die, and we are next in line."
 

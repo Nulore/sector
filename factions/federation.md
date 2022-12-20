@@ -1,6 +1,6 @@
 # [Quadrantal Federation](federation)
 
-![federation](../images/federation.png)
+![federation](../images/flags/federation.png)
 
 > "For the quadrant and beyond!"
 

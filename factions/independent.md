@@ -1,6 +1,6 @@
 # Independent
 
-![independent](../images/independent.png)
+![independent](../images/flags/independent.png)
 
 > "Please leave us alone."
 
