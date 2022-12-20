@@ -9,6 +9,7 @@ def main():
     start = time.process_time()
     print("now indexing files.")
     files = glob("*.md") + glob("**/*.md")
+    files = sorted(files)
     print("indexed files.")
     print("now writing files.")
     with open("page_index.md", "w") as file:
