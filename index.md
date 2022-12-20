@@ -4,7 +4,7 @@
 
 ## Get Started
 
-How about browsing [The Brief Explanation?](brief.md), or you can visit the [page index](page_index.md) to view it all!
+How about browsing [The Brief Explanation?](brief_explanation.md), or you can visit the [page index](page_index.md) to view it all!
 
 ## Things to keep in mind
 
