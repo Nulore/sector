@@ -7,4 +7,4 @@
 A massive group of human supremacists believing that humans deserve the universe.
 
 - **Allies:** [Tauri Corporation](tauri)
-- **Enemies:** [Roach Conglomerate](roach_conglomerate), [Botani Union](botani) Union, [Pirates](pirates)
+- **Enemies:** [Roach Conglomerate](roach_conglomerate), [Botani Union](botani), [Pirates](pirates)
