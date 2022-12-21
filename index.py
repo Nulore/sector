@@ -10,8 +10,7 @@ def main():
     start = time.process_time()
 
     print("now indexing files.")
-    files = glob("*.md") + glob("**/*.md") + glob("**/**/*.md")
-    files = sorted(files)
+    files = glob("**/*.md", recursive=True)
     print("indexed files.")
 
     print("now writing files.")
