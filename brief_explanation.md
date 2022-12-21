@@ -2,7 +2,9 @@
 
 In Sol years, the year is 4853, humans are around the same as humans in the 21st century, speaking Federation English.
 
-The merging of the Andromeda galaxy and the Milky Way galaxy has happened faster than scientists in the 21st century believed, as the Andromeda galaxy approached the Milky Way in 2563 and officially finished in 4834 to form the Milkdromeda galaxy, commonly known as **The Quadrant**. The quadrant is currently trying to figure out how to keep itself from eradicating itself, the Federation continues to form peace and fail at it, while it also deals with a civil war.
+The Milky Way galaxy is commonly known as **The Quadrant**. The quadrant is currently trying to figure out how to keep itself from eradicating itself, the Federation continues to form peace and fail at it, while it also deals with a civil war.
+
+**The Quadrant** consists of multiple **sectors** which are agreed upon by the whole Quadrant.
 
 The technological combination of multiple and species, inactive and active, skirmishes and battles forcing rapid technological growth in order to fight the enemy and win have lead to the 4853.
 
