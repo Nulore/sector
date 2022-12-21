@@ -27,7 +27,7 @@ def main():
                 continue
                 
             split = markdown.replace("\\", "/").split("/")
-            name = split.pop()[:-3].replace("_", " ").capitalize().split(" ")
+            name = split.pop()[:-3].split("_")
 
             for i,item in enumerate(name):
                 name[i] = item.capitalize()
