@@ -6,9 +6,11 @@ The Cosmic Storms in the
 
 Sector Null fails to be researched further with the only transmission being let out taking nearly 8 years to decode.
 
-## Transmissions
+## [BEOWULF](../../factions/minor/beowulf)
 
-The only recorded tranmission out of Sector Null is a poem.
+In 4851 around December 12, a ship was detected exiting Deadzone space. This attracted the media, and caused a new research opportunity for multiple companies after proving the Deadzone was in fact able to be traversed, and giving some hope for those trapped inside.
+
+## Transmissions
 
 > Don't enter the deadzone,
 > You won't be able to clone
@@ -26,7 +28,7 @@ The only recorded tranmission out of Sector Null is a poem.
 >The toughness of the abyss,
 >will make you kiss your ship away!
 
-One of the last data recorded is a blackbox on a stolen Federation ship. An AI core has attempted it's best to describe the situation in text form.
+One of the data recorded is a blackbox on a stolen Federation ship. An AI core has attempted it's best to describe the situation in text form.
 
 ```diff
 - BEGIN BLACKBOX RECORDING -
