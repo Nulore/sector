@@ -8,5 +8,7 @@ The **Independent** faction is not really one *unified* faction per se but rathe
 
 Attacking **Independent** ships are usually frowned upon in most sectors of space, as they are considered civilians.
 
+## Diplomatic Chart
+
 - **Allies:** None
 - **Enemies:** [Pirates](pirates)
