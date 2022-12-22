@@ -1,4 +1,4 @@
-# A Guide To Navigating The Quadrant
+# A Guide To Navigating The Quadrant (unknown author)
 
 Welcome, new traveller, to the Quadrant. I assume you have found this book in a Federation spaceport, or perhaps you found it while stowing away on a ship, maybe you found it while serving at the Union? Doesn't matter, welcome to the Quadrant. The Quadrant is big and vast, with many alien species all over the place.
 
