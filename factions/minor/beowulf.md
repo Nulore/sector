@@ -2,8 +2,6 @@
 
 ![beowulf flag](https://user-images.githubusercontent.com/121211676/209128428-6fad4507-e92a-4416-ab3b-08b49cb79847.png)
 
-## History
-=======
 >"As old Sol once said: Humanity cannot live without cooperation and intelligence, One for All and All for One. To peace and fairness."
 
 Developing on research, study, discovery, technology, biology, development, renovation and recreation.
