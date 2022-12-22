@@ -24,5 +24,5 @@ The IIBE(UO)R (Independent Intelligence Bureau of Ethnic Unorthodox Research) or
 
 ## Diplomatic Chart
 
-- **Allies:** [Human Union](human_union), [Roach Conglomerate](roach_conglomerate), [Galactic Federation](federation), The Heir
-- **Enemies:** [Botani Union](botani), [BEOWULF](minor/beowulf), [Pirates](pirates)
+- **Allies:** [Galactic Federation](federation)
+- **Enemies:** [Tauri Corporation](../tauri), [BEOWULF](minor/beowulf), [Pirates](pirates)
