@@ -1,7 +1,9 @@
 # First Intelligence Unit of Sector, Beowulf Central Coop.
 
-![beowulf flag](../../images/flags/beowulf.png)
+![beowulf flag](https://user-images.githubusercontent.com/121211676/209128428-6fad4507-e92a-4416-ab3b-08b49cb79847.png)
 
+## History
+=======
 >"As old Sol once said: Humanity cannot live without cooperation and intelligence, One for All and All for One. To peace and fairness."
 
 Developing on research, study, discovery, technology, biology, development, renovation and recreation.
@@ -21,10 +23,11 @@ They often open trade to others, as that is what they do. To improve on technolo
 
 ## Issues
 
-The Tauri Corporation do not like the Beowulf, for them profiting off of their own technology that after an Advanced Cloning Machine (the ACM), which works only with DNA and required memory (main functions of the body), despite that even if the brain is punctured a human can be revived, but with small memory-loss. They offer it to Tauri for compensation and hopefully erase the debt they had from Tauri once they recieve it, to compensate for all deaths and that they profited off from their technology.
+The Tauri Corporation do not like the Beowulf because Beowulf gained profit off of Tauri technology. That was during production of an Advanced Cloning Machine (the ACM) manufactured by Beowulf Central Coop., which function works only with DNA and required memory (main functions of the body), despite that even if the brain is punctured a human can be revived, but with small memory-loss. They offer it to Tauri for compensation and hopefully erase the debt they had from Tauri once they recieve it, to compensate for all deaths and that they profited off from their technology.
 
 ## Rumors
-- The Blackbox recording which were inherently stolen by Tauri from Lucens Spei (the founder of Beowulf) which were classified Quadrant audio was leaked and Beowulf was blamed for it. It was not confirmed true yet but Beowulf simply claims that the rumors were false, that amused the public and simply stopped talking about it, except for some. 
+- The Blackbox recording which were inherently stolen by Tauri from Lucens Spei (the founder of Beowulf) which were classified Quadrant audio was leaked and Beowulf was blamed for it. It was not confirmed true yet but Beowulf simply claims that the rumors were false, that amused the public and simply stopped talking about it, except for some.
+- Beowulf stole Tauri corp property, which is true by Tauri-terms but false by public terms.
 
 ## Diplomatic Chart
 
