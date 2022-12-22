@@ -20,11 +20,14 @@ The Federation sent **Tauri Mercenaries** to steal the Tauri research and kill a
 
 ## Controversy
 
-**Tauri Corporation** has been a major lead in many controversies, such as the allowing of **antimatter bombing** which is considering inhumane by the [Federation](../factions/federation) and defending the usage of planetkillers.
+**Tauri Corporation** has been a major lead in many controversies, such as the allowing of **antimatter bombing** which is considering inhumane by the [Federation](federation) and defending the usage of planetkillers.
+
+A major controversy involving the **Tauri Corporation** is that they profit off of the civil war. Due to having contracts with both the [Federation](federation) and the [Human Union](human_union), if either side loses, the **Tauri Corporation** profits and wins.
 
 ## Rumors
 
 - The **Tauri Corporation** CEO may be an AI.
+- The **Tauri Corporation** sparked the **Federation-Union** civil war to profit off both their fighting.
 
 ## Diplomatic Chart
 
