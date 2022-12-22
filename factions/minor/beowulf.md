@@ -24,7 +24,7 @@ They often open trade to others, as that is what they do. To improve on technolo
 The Tauri Corporation do not like the Beowulf, for them profiting off of their own technology that after an Advanced Cloning Machine (the ACM), which works only with DNA and required memory (main functions of the body), despite that even if the brain is punctured a human can be revived, but with small memory-loss. They offer it to Tauri for compensation and hopefully erase the debt they had from Tauri once they recieve it, to compensate for all deaths and that they profited off from their technology.
 
 ## Rumors
-- The Blackbox recording which inherently got which were classified Quadrant audio was leaked and Beowulf was blamed for it. It was not confirmed true yet but Beowulf simply claims that the rumors were false, that amused the public and simply stopped talking about it, except for some. 
+- The Blackbox recording which were inherently stolen by Tauri from Lucens Spei (the founder of Beowulf) which were classified Quadrant audio was leaked and Beowulf was blamed for it. It was not confirmed true yet but Beowulf simply claims that the rumors were false, that amused the public and simply stopped talking about it, except for some. 
 
 ## Diplomatic Chart
 
