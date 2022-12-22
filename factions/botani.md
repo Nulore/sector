@@ -4,5 +4,7 @@
 
 A union of multiple plant-based organisms under one name.
 
+## Diplomatic Chart
+
 - **Allies:** [Galactic Federation](federation)
 - **Enemies:** [Pirates](pirates), [Human Union](human_union), [Tauri Corporation](tauri)

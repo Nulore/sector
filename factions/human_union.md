@@ -8,5 +8,7 @@ The **Human Union** is a group of human supremacists who believe that alien spec
 
 Originally rumored to occur as a joke when the [Federation](federation) began to figure out what to do with these alien species, the main reason why this occurred was due to many workers believing that their jobs will be replaced by an alien.
 
+## Diplomatic Chart
+
 - **Allies:** [Tauri Corporation](tauri)
 - **Enemies:** [Roach Conglomerate](roach_conglomerate), [Botani Union](botani), [Pirates](pirates)

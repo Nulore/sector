@@ -8,5 +8,7 @@ Pirates have existed even before the Federation, and even before we got into spa
 
 Now? Pirates still pirate, and compared to their former selves, they're much more powerful!
 
+## Diplomatic Chart
+
 - **Allies:** None
 - **Enemies:** All

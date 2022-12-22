@@ -16,5 +16,7 @@ During the Tauri Divison era when the Tauri Corporation was under [Federation](f
 
 The Federation sent **Tauri Mercenaries** to steal the Tauri research and kill all the workers, Tauri Mercenaries agreed to this but didn't preform the massacre; rather informing the researchers about the situation. The researchers handed a prototype antimatter planetkiller and the mercenaries threatened to use the planetkiller on the Federation's main station of operations, before seceding off into the today's **Tauri Corporation**.
 
+## Diplomatic Chart
+
 - **Allies:** [Human Union](human_union), [Roach Conglomerate](roach_conglomerate), [Galactic Federation](federation), The Heir
-- **Enemies:** [Botani Union](botani), [Pirates](pirates)
+- **Enemies:** [Botani Union](botani), [BEOWULF](minor/beowulf), [Pirates](pirates)

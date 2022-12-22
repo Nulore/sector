@@ -18,5 +18,7 @@ After the discovery of [antimatter](../technology/antimatter), the Federation or
 
 Tauri developed a planetkiller and threatened to use it on the main Federation base, before seceding from the Federation.
 
+## Diplomatic Chart
+
 - **Allies:** [Roach Conglomerate](roach_conglomerate), [Botani Union](botani), [Tauri Corporation](tauri)
 - **Enemies:** [Human Union](human_union), [Pirates](pirates), The Heir
