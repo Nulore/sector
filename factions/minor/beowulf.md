@@ -7,7 +7,7 @@
 Developing on research, study, discovery, technology, biology, development, renovation and recreation.
 These are who will make a new safe earth, where humanity will be back again in past days where technology wasn't everything and where pollution didn't often spread around the place. And also find new planets, to discover. To learn. To better. 
 
-It is independant and one of the first few leads of recreation and science, similar to Tauri but they do not profit off of combat and war, they combat off of civilian jobs and peace, welfare and fairness. They are the first intelligence unit and holds prized information. 
+It is independant and one of the first few leads of recreation and science, similar to Tauri but they do not profit off of combat and war, they profit off of civilian jobs and peace, welfare and fairness. They are the first intelligence unit which researchers work on investigatory research. Holding prized information that the Quadrant does not even know.
 
 ## History
 
